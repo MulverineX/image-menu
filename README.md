@@ -8,5 +8,4 @@ Adds new features to image context/right click menus
 - Save Image As
 - Reverse image search
 
-### Similar plugins
-- [BetterImageViewer](https://github.com/1Lighty/BetterDiscordPlugins/tree/master/Plugins/BetterImageViewer) (BetterDiscord)
+Works well with [BetterImageViewer](https://github.com/1Lighty/BetterDiscordPlugins/tree/master/Plugins/BetterImageViewer) (BetterDiscord, via [BDCompat](https://github.com/Juby210/bdCompat))
