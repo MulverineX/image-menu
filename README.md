@@ -1,4 +1,4 @@
-# Image Tools
+# Image Menu
 
 Adds new features to image context/right click menus
 
